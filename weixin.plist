@@ -11,37 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.vdisk.cn/wxhbts/63918.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.wxhbts.com/yueyu1/wxgc.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.wxhbts.com/yueyu1/wxgc.png</string>
+					<string>http://www.vdisk.cn/wxhbts/63918.ipa<</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xin.xy</string>
+				<string>com.fnst.smartwork</string>
 				<key>bundle-version</key>
-				<string>6.3.9.18</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>微信分身版</string>
 				<key>title</key>
-				<string>微信分身版</string>
+				<string>xxx.ipa</string>
 			</dict>
 		</dict>
 	</array>
