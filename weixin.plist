@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+    <key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -11,37 +11,20 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www511com22.dk2.zuji-427.com/weixin.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.wxhbts.com/yueyu1/wxgc.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://app.wxhbts.com/yueyu1/wxgc.png</string>
+					<string>
+http://www511com22.dk2.zuji-427.com/weixin.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xin.xy</string>
+				<string>com.openbook.mars.iosx</string>
 				<key>bundle-version</key>
-				<string>6.3.9.18</string>
+				<string>2.0.2</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>6.3.22</string>
 				<key>title</key>
-				<string>微信6.3.22</string>
+				<string>开卷</string>
 			</dict>
 		</dict>
 	</array>
