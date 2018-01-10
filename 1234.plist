@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>请填上你的开发者证书用户名</string>
+    <string>com.ccssoft.mopclient.chongqing</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
